@@ -1,1 +1,3 @@
-my papers (for now only one that was mandatory for a class, hence not very thorough. They did not allow own experiments, only summarizing other peoples work :/ )
+my papers.  
+*Bachelors thesis*: Efficient Large Language Models via Recurrent Transformer Blocks  
+*Literature-only*: Domain-Specific Pretraining of Language Models  
